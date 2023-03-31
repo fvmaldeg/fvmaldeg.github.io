@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+# Flore Van Maldeghem
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+I'm a geologist fascinated by space and our Solar System. I specialize in the study of micrometeorites. Using various analytical techniques I try to unravel the origin and history of this cosmic dust raining down on the surface of our Earth.
 

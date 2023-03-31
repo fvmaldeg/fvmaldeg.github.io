@@ -45,19 +45,19 @@ icon = "/icons/github.svg"
 name = "github"
 url = "https://github.com/"
 
-[[params.social]]
-alt = "medium icon"
-blank = true
-icon = "/icons/medium.svg"
-name = "medium"
-url = "https://medium.com/"
+#[[params.social]]
+#alt = "medium icon"
+#blank = true
+#icon = "/icons/medium.svg"
+#name = "medium"
+#url = "https://medium.com/"
 
-[[params.social]]
-alt = "stack-overflow icon"
-blank = true
-icon = "/icons/stack-overflow.svg"
-name = "stack-overflow"
-url = "https://stackoverflow.com/"
+#[[params.social]]
+#alt = "stack-overflow icon"
+#blank = true
+#icon = "/icons/stack-overflow.svg"
+#name = "stack-overflow"
+#url = "https://stackoverflow.com/"
 
 [[params.social]]
 alt = "twitter icon"
