@@ -1,17 +1,7 @@
 +++
 title = "About me"
 
-type = "blog"
+type = "page"
 +++
 
-I'm a **sea sponge** who works as a fry cook at the **Krusty Krab**:
-![](/img/krusty_krab.webp)
-
-The Krusty Krabe is a fast food restaurant known for it's signature burger:
-
-![*The Krabby Patty*](/img/krabby_patty.webp)
-
-Try to make one yourself and you will be as happy as I am.
-![My first Krabby Patty](/img/spongebob-krusty-cook.webp)
-
-You can take a look at the recipe [here](/blog/krabby_patty/).
+I'm a geologist fascinated by space and our Solar System. I specialize in the study of micrometeorites. Using various analytical techniques I try to unravel the origin and history of this cosmic dust raining down on the surface of our Earth.

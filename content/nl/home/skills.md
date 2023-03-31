@@ -6,7 +6,7 @@ weight = 20  # Order that this section will appear.
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
 
-title = "Compétences"
+title = "Competenties"
 subtitle = "Je maitrise les compétences techniques suivantes :"
 
 [[bar]]

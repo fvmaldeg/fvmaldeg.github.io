@@ -55,5 +55,6 @@ required = true
 
 +++
 
-Need help to open a fast-food ?
+Interested in a workshop, lecture or just (micro)meteorites?
+
 Let’s talk about it !

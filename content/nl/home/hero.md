@@ -21,7 +21,7 @@ hero_media = "/img/portrait.jpg"
 
 [[btn]]
   url = "#contact"
-  label = 'Me contacter'
+  label = 'Contacteer mij'
 
 +++
 
