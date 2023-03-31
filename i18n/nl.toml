@@ -1,0 +1,62 @@
+[tagged_in]
+other = "Getagd in"
+
+[other_tags]
+other = "Andere tags"
+
+[read_more]
+other = "Lees meer"
+
+[name]
+other = "Naam"
+
+[your_message]
+other = "Uw bericht"
+
+[cancel]
+other = "Annuleer"
+
+[submit]
+other = "Verstuur"
+
+[previous]
+other = "Vorige"
+
+[next]
+other = "Volgende"
+
+[back]
+other = "Terug"
+
+[contact]
+other = "Contact"
+
+[contact_email]
+other = "Contact via email"
+
+[latest_post]
+other = "Laatste bericht"
+
+[reading_time]
+other = "{{ .ReadingTime }} min lezen"
+
+[home]
+other = "Startpagina"
+
+[about]
+other = "Over"
+
+[blog]
+other = "Blog"
+
+[outreach]
+other = "Wetenschapscommunicatie"
+
+[publications]
+other = "Publicaties"
+
+[present]
+other = "Vandaag"
+
+[required_fields]
+other = "Verplichte velden"
