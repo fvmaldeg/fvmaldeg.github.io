@@ -3,3 +3,17 @@
 /* body {
 	background-color: white!important;
 } */
+
+.bar-item {
+	min-width: 20%;
+	max-width: 100%;
+}
+
+.bar-container {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  /* This is better for small screens, once min() is better supported */
+  /* grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr)); */
+  gap: 3rem;
+  margin-top: 2rem;
+}
