@@ -27,9 +27,9 @@
   --color-secondary-dark: #ced4da;
   --color-secondary-light: #f8f9fa;
 
-  --color-accent: #48bb78;
-  --color-accent-dark: #43a76c;
-  --color-accent-light: #7deea7;
+  --color-accent: #009E73;
+  --color-accent-dark: #009E73;
+  --color-accent-light: #009E73;
 }
 
 .dark * {
