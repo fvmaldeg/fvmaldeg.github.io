@@ -57,4 +57,4 @@ required = true
 
 Interested in a workshop, lecture or just (micro)meteorites?
 
-Let’s talk about it !
+Send me a message!
