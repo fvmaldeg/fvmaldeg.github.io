@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Krabby Patty recipe"
 subtitle = "How the best burger of all time is made."
 tags = ['recipe']

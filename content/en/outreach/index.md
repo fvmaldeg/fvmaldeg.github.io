@@ -2,10 +2,11 @@
 title = "Outreach"
 +++
 ## Contest
-* Finalist of the doctoral derby VUB 2023 (LINK)
+* Finalist of the doctoral derby VUB 2023
 
 * First place [Polar Photo competition APECS](https://apecs.is/outreach-archive/polar-weeks-archive/polar-weeks-2021/419-polarweekphoto-competition-march-2021/4506-the-winners-of-the-int-polar-week-march-2021-competition-are.html)
 
+* Valère Billiet award: annual award for best geology student
 
 ## Workshops
 * [Nerdland Festival](https://www.nerdlandfestival.be/nl/) 2022
@@ -24,4 +25,3 @@ title = "Outreach"
 
 ## Other
 * [Digitale Kinderuniversiteit](https://vubkinderuniversiteit.be/lespakket-kraters-en-meteorieten/): Kraters en meteorieten 
-* 

@@ -25,4 +25,4 @@ subtitle = "Read about my latest endeavors"
 		exclude_featured = false
 +++
 
-:disappointed: There are no posts at the moment. :disappointed:
+Coming soon...
