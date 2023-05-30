@@ -1,6 +1,5 @@
 +++
-
-widget = "contact_form"
+widget = "blank"
 title = "Contact me" 
 
 # Uncomment the following line and widget will NOT be displayed
