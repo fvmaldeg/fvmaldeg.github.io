@@ -15,7 +15,7 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "En savoir plus"
+  label = "Mijn verhaal"
 	# Primary color
 	primary = true
 

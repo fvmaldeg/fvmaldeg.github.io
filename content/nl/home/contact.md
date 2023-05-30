@@ -1,4 +1,5 @@
 +++
+hidden = true
 widget = "contact_form"
 title = "Contacteer mij" 
 

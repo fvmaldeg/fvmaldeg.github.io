@@ -3,6 +3,7 @@ title = "Recette du Krabby Patty"
 subtitle = "Comment le meilleur burger de tout les temps est fait."
 tags = ['recipe']
 date = 2020-06-25
+draft = true
 
 # For description meta tag
 description = "Recette du légendaire Krabby Patty."

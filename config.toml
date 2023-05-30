@@ -36,7 +36,7 @@ favicon = '/favicon.ico'
 alt = "email icon"
 icon = "/icons/email.svg"
 name = "email"
-url = "mailto:mail@example.com"
+url = "mailto:flore.van.maldeghem@vub.be"
 
 [[params.social]]
 alt = "github icon"
@@ -59,12 +59,12 @@ url = "https://github.com/"
 #name = "stack-overflow"
 #url = "https://stackoverflow.com/"
 
-[[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/"
+#[[params.social]]
+#alt = "twitter icon"
+#blank = true
+#icon = "/icons/twitter.svg"
+#name = "twitter"
+#url = "https://twitter.com/"
 
 [[params.social]]
 alt = "facebook icon"
