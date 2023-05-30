@@ -25,6 +25,6 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# Un thème pour **exprimer** vos idées.
+# Flore Van Maldeghem
 
-Pico est un thème qui se veut minimaliste, responsive, clair et léger.
+Ik ben een geoloog, gefascineerd door de ruimte en ons zonnestelsel. Ik ben gespecialiseerd in de studie van micrometeorieten. Aan de hand van verschillende analytische technieken probeer ik de oorsprong en geschiedenis van dit kosmisch ruimtestof dat neerregent op het oppervlak van onze aarde te achterhalen.

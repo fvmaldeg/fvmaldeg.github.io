@@ -8,8 +8,8 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
 
-title = "Mes postes récents"
-subtitle = "Lisez à propos de mes derniers projets"
+title = "Recente berichten"
+subtitle = "Lees meer over mijn recente belevenissen"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,4 +25,4 @@ subtitle = "Lisez à propos de mes derniers projets"
     exclude_featured = false
 +++
 
-:disappointed: Il n'y a aucun post pour le moment. :disappointed:
+Snel meer...

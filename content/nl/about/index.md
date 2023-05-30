@@ -1,7 +1,11 @@
 +++
 title = "Over mij"
-
-type = "blog"
 +++
 
-Ik ben een geoloog gefascineerd door de ruimte en ons zonnestelsel. Ik ben gespecialiseerd in de studie van micrometeorieten. Aan de hand van verschillende analytische technieken, probeer ik de oorsprong en geschiedenis te achterhalen van dit kosmisch stof dat neerdwarrelt op onze aarde.
+Toen ik 18 was, koos ik voor de richting geologie. Mijn grootste drijfveer was mijn fascinatie met het universum en planeten. Niet de berekeningen en fysica erachter, maar de processen die op deze dierse werelden plaatsvinden. Geologie bleek de beste optie om de verschillende takken van wetenschap zoals chemie, fysica en biologie te combineren om onze en andere werelden te begrijpen.
+
+Na drie jaar, had ik niet zoveel bijgeleerd over ons zonnestelsel en nadere planeten, maar had ik veel geleerd over de planeet Aarde en processen zoals platentektoniek, vulkanisme en andere geologische processen. Ik beëindigde mijn bachelor met een project rond meersedimenten in Nepal in een poging om de lokale aardbevingsgeschiedenis beter te begrijpen, met het potentieel om aardbevingen in het gebied te voorspellen.
+
+Mijn eerste master spendeerde ik in Tromsø, Noorwegen, waar ik verliefd werd op het noorden. Ik keer nog elk jaar terug naar Lapland. Dit was ook de eerste stap in het uitbreiden van mijn persoonlijke wereldbeeld en onafhankelijkheid. Ik leerde veel nieuwe mensen kennen, vergaarde nieuwe skills, zowel professioneel als persoonlijk. En misschien wel het belangrijkste, ik leerde mezelf beter kennen. Tijdens dit jaar, verschenen micrometeorieten voor het eerst op mijn pad in de lijst van onderwerpen voor de master thesis. Ik wist onmiddelijk dat dit onderwerp het mijne zou worden. Ik zette mijn tweede masterjaar verder onder de begeleiding van Steven Goderis en Philippe Claeys. Ik stapte in de intrigerende wereld van meteorieten en micrometeorieten. Na het beëindigen van mijn master, bleef ik samenwerken met Steven en Philippe, nu als doctoraatstudent.
+
+Mijn focus blijft op buitenaards materiaal. De meeste mineralen in buitenaards materiaal verdwijnen relatief snel en blijven niet bewaard gedurende lange tijd. Dit limiteert de reconstructie van de stroom van buitenaards materiaal naar onze aarde doorheen de tijd. De spinel groep mineralen zijn vrij resistent tegen verwering en zijn dus de best bewaarde buitenaardse fase. Het primaire doel van mijn project is om dit mineraal te karakteriseren in recente meteorieten, micrometeorieten en impact materiaal. Zo kunnen we de oorsprong van spinel mineralen in oude gesteenten beter begrijpen. Ik probeer dus een basis te creëeren om mogelijke veranderingen in de buitenaardse stroom te documenteren doorheen de geologische tijd.
