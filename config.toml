@@ -38,13 +38,6 @@ icon = "/icons/email.svg"
 name = "email"
 url = "mailto:flore.van.maldeghem@vub.be"
 
-[[params.social]]
-alt = "github icon"
-blank = true
-icon = "/icons/github.svg"
-name = "github"
-url = "https://github.com/fvmaldeg/"
-
 #[[params.social]]
 #alt = "medium icon"
 #blank = true
@@ -79,6 +72,13 @@ blank = true
 icon = "/icons/instagram.svg"
 name = "instagram"
 url = "https://www.instagram.com/flore_vm/"
+
+[[params.social]]
+alt = "github icon"
+blank = true
+icon = "/icons/github.svg"
+name = "github"
+url = "https://github.com/fvmaldeg/"
 
 # Navigation bar
 [menu]
