@@ -22,7 +22,7 @@ subtitle = "Technisch en experimenteel"
 	
 [[bar]]
 	#icon = "/icons/heat.svg"
-	name = "Hoofd- en sporen elementen chemie "
+	name = "Chemische bepaling elementen "
 	percent = "80%"
 
 
