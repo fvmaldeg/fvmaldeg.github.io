@@ -73,6 +73,13 @@ icon = "/icons/facebook.svg"
 name = "facebook"
 url = "https://www.facebook.com/flore.schrijverken/"
 
+[[params.social]]
+alt = "instagram icon"
+blank = true
+icon = "/icons/instagram.svg"
+name = "instagram"
+url = "https://www.instagram.com/flore_vm/"
+
 # Navigation bar
 [menu]
 
