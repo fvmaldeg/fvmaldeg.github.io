@@ -7,7 +7,7 @@ title = "Publicaties"
 * _Decoupling of chemical and isotope fractionation processes during atmospheric heating of micrometeorites_, Lampe, S., Soens, B., Chernonozhkin, S. M., Vega, C. G. D., Ginneken, M. V., **Maldeghem, F. V.**, Vanhaecke, F., Glass, B. P., Franchi, I. A., Terryn, H., Debaille, V., Claeys, P. & Goderis, S., 1 May 2022, In: Geochimica et Cosmochimica Acta. 324, p. 221-239 19 p. [doi](https://doi.org/10.1016/j.gca.2022.02.008)
 
 ### 2021
-* _A large meteoritic event over Antarctica ca. 430 ka ago inferred from chondritic cosmic spherules from the Sør Rondane Mountains_, Van Ginneken, M., Goderis, S., Artemieva, N., Debaille, V., DECREE, S., Harvey, R., Huwig, K. A., Hecht, L., Yang, S., Kaufmann, F. E. D., Soens, B., Humayun, M., **Van Maldeghem, F.**, Genge, M. & Claeys, P., 31 Mar 2021, In: Science Advances. 7, 14, 11 p., eabc1008. [doi](10.1126/sciadv.abc1008)
+* _A large meteoritic event over Antarctica ca. 430 ka ago inferred from chondritic cosmic spherules from the Sør Rondane Mountains_, Van Ginneken, M., Goderis, S., Artemieva, N., Debaille, V., DECREE, S., Harvey, R., Huwig, K. A., Hecht, L., Yang, S., Kaufmann, F. E. D., Soens, B., Humayun, M., **Van Maldeghem, F.**, Genge, M. & Claeys, P., 31 Mar 2021, In: Science Advances. 7, 14, 11 p., eabc1008. [doi](https://doi.org/10.1126/sciadv.abc1008)
 
 ### 2020
 * _Cosmic spherules from Widerøefjellet, Sør Rondane Mountains (East Antarctica)_,
