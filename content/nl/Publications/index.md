@@ -3,6 +3,9 @@ title = "Publicaties"
 +++
 
 ## Peer-reviewed
+### 2023
+* _Geochemical characterization of scoriaceous and unmelted micrometeorites from the Sør Rondane Mountains, East Antarctica: Links to chondritic parent bodies and the effects of alteration_, **Van Maldeghem, F.**, van Ginneken, M., Soens, B., Kaufmann, F., Lampe, S., Krämer Ruggiu, L., Hecht, L., Claeys, Ph., Goderis, S., 10 June 2023, In: Geochimica et Cosmochimica Acta. 354, p. 88-108 [doi](https://doi.org/10.1016/j.gca.2023.06.002)
+
 ### 2022
 * _Decoupling of chemical and isotope fractionation processes during atmospheric heating of micrometeorites_, Lampe, S., Soens, B., Chernonozhkin, S. M., Vega, C. G. D., Ginneken, M. V., **Maldeghem, F. V.**, Vanhaecke, F., Glass, B. P., Franchi, I. A., Terryn, H., Debaille, V., Claeys, P. & Goderis, S., 1 May 2022, In: Geochimica et Cosmochimica Acta. 324, p. 221-239 19 p. [doi](https://doi.org/10.1016/j.gca.2022.02.008)
 
