@@ -2,7 +2,7 @@
 title = "Outreach"
 +++
 ## Contest
-* Winner of the Scientific summary award from the doctoral derby VUB 2023
+*  Winner of the Scientific summary award from the doctoral derby VUB 2023
 
 * First place [Polar Photo competition APECS](https://apecs.is/outreach-archive/polar-weeks-archive/polar-weeks-2021/419-polarweekphoto-competition-march-2021/4506-the-winners-of-the-int-polar-week-march-2021-competition-are.html)
 
