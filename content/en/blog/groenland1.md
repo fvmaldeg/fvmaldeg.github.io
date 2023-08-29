@@ -12,4 +12,5 @@ The moment we leave the tiny airport, Will’s phone rings. It is the charter se
 The next morning, we wait in suspense for the redeeming phone call. They have a plan: instead of the one big helicopter that we booked (which is apparently in Rotterdam as we will learn later) they will fly us in two trips with a smaller helicopter. Excited to leave, we make the final preparations. Unfortunately the weather was not as happy to cooperate. There is too much fog, so we can’t take off. The rollercoaster of emotions continues. In the evening, the weather clears, and because there is no free spot in a hotel, but mainly to experience the field a bit, we put up our tents along the icefiord and enjoy the midnight sun on the icebergs.
 AirGreenland reschedules us for the Saturday. On Friday, we kill some time with a walk, hiding for the rain in hotel icefiord (where the staff is getting to know us) and speculate options in case the weather is bad the next day. The alternatives will be necessary. On Saturday it is again too foggy. No helicopter for us… 
 
+
 ![](/img/ilulissat1.jpg)
