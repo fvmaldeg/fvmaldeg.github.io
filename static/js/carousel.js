@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
   carousels.forEach(function( carousel ) {
 
       const ele = carousel.querySelector('ul');
+      console.log(ele.offsetWidth)
       const amountvisible = Math.round(ele.offsetWidth/ele.querySelector('li:nth-child(1)').offsetWidth);
       const bullets = carousel.querySelectorAll('ol li');
       const slides = carousel.querySelectorAll('ul li');

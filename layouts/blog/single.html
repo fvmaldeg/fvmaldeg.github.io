@@ -12,7 +12,6 @@
 {{ end }}
 <div class="blog-content text-justify leading-loose mb-12 mx-auto sm:max-w-vw-5/6 text-md">
 	{{ .Content }}
-	{{ partial "carousel.html" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "7000") }}
 </div>
 {{/* Previous / Next section */}}
 {{ if or (.PrevInSection) (.NextInSection) }}
@@ -47,6 +46,6 @@
 <hr class="my-6">
 {{ partial "contact_icons.html" . }}
 <div class="mt-6"></div>
-<script type="text/javascript" src="/js/carousel.js"></script>
-<link rel="stylesheet" href="/css/carousel.css">
+	<script type="text/javascript" src="/js/carousel.js"></script>
+	<link rel="stylesheet" href="/css/carousel.css">
 {{ end }}
