@@ -1,7 +1,7 @@
 {{ $height := (.Get "height") }}
 {{ $unit := (.Get "unit") }}
 {{ $items := (.Get "items") }}
-<div id="carousel{{ .Ordinal }}" class="carousel" duration="{{ .Get " duration" }}">
+<div id="carousel{{ .Ordinal }}" class="carousel mb-12 mt-12" duration="{{ .Get " duration" }}">
   <ul>
     {{- range $index, $slide := .Page.Resources.Match (print (.Get "data") "/*") }}
     <li id="c{{ $.Ordinal }}_slide{{ add $index 1}}"
