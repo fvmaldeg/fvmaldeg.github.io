@@ -18,11 +18,11 @@ subtitle = "Lees meer over mijn recente belevenissen"
   # Choose how much pages you would like to display
   count = 5
 
-	[content.filters]
-    tag = "recipe"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
+#	[content.filters]
+#    tag = "recipe"
+#    category = ""
+#    publication_type = ""
+#    exclude_featured = false
 +++
 
 Snel meer...
