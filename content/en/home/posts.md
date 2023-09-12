@@ -18,11 +18,11 @@ subtitle = "Read about my latest endeavors"
 	# Choose how much pages you would like to display
 	count = 3
 
-	[content.filters]
-		tag = "recipe"
-		category = ""
-		publication_type = ""
-		exclude_featured = false
+#	[content.filters]
+#		tag = "recipe"
+#		category = ""
+#		publication_type = ""
+#		exclude_featured = false
 +++
 
 Coming soon...
