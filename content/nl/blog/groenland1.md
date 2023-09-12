@@ -1,5 +1,5 @@
 +++
-title = "Die met de helikopter"
+title = "Helikopteren"
 subtitle = "Veldwerk in Groenland"
 tags = ['veldwerk', 'Groenland']
 date = 2023-08-29
