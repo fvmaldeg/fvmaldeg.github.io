@@ -9,20 +9,20 @@ widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = "Read about my latest endeavors"
+subtitle = "Here you will find some of my adventures as a PhD student, ranging from field work to conferences to daily lab work and writing."
 
 [content]
-	# Page type to display. E.g. post, talk, or publication.
-	page_type = "blog"
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "blog"
+  
+  # Choose how much pages you would like to display
+  count = 3
 
-	# Choose how much pages you would like to display
-	count = 3
-
-	[content.filters]
-		tag = "recipe"
-		category = ""
-		publication_type = ""
-		exclude_featured = false
+#	[content.filters]
+#    tag = "recipe"
+#    category = ""
+#    publication_type = ""
+#    exclude_featured = false
 +++
 
 Coming soon...
