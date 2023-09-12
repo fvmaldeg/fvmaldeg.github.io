@@ -18,22 +18,11 @@ subtitle = "Here you will find some of my adventures as a PhD student, ranging f
   # Choose how much pages you would like to display
   count = 3
 
-<<<<<<< HEAD
-#	[content.filters]
-#    tag = "recipe"
-#    category = ""
-#    publication_type = ""
-#    exclude_featured = false
-=======
-	# Choose how much pages you would like to display
-	count = 3
-
 #	[content.filters]
 #		tag = "recipe"
 #		category = ""
 #		publication_type = ""
 #		exclude_featured = false
->>>>>>> ce612d02ace41c92a99d74a9df9b852eb8c46aa4
 +++
 
 Coming soon...
