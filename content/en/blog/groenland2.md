@@ -1,0 +1,18 @@
++++
+title = "The one with the mosquitos"
+subtitle = "Fieldwork in Greenland"
+tags = ['fieldwork', 'Greenland']
+date = 2023-09-29
+description = "The one with the mosquitos"
+banner = 'img/icefjord3.jpg'
++++
+
+Luckily, we've anticipated. On Friday, we contacted Ivik, someone Willem knows and works with for boat transfers. We agree with Ivik that he drops us at two different locations along the coast, where we can search for micrometeorites. On Friday, we also identified two potential locations for the micrometeorite search. Conditions for a good location: hard bed rock, and high peaks that weren't continuously covered during the glaciations in order to catch as much material as possible from the sky. Our first stop is a beach in a bay north of the village Qeqertaq. This turns out to be the favourite spot of a couple humpback whales. Every day, they greet us with splashes and the wave of a fin. Our camp is surrounded by granitic mountains 700 to 800 m high. The three peaks in walking distance are the target for the next three days. Following the dropoff, we set up camp on the beach close to a river. Happy to finally start our fieldwork, we aren't even that bothered by the mosquitos (yet).
+
+The first day is rainy and that makes the terrain more difficult. We start along the beach, hopping over and between rocks. This is followed by very wet, ankle-high bushes, leading to drenched shoes and feet. To get higher, we have to climb some slippery boulders. Because of a fall on my knee, Steven and I return to camp early, while Will and Willem climb on to the top. After a long day, they reach camp with the first samples. I spend day 2 in the camp to offer my knee some rest. Luckily, the weather has improved. However, when the three guys return that night, they have again wet feet, thanks to the snow fields higher up. The last peak is a bit further. The route starts with 4 km along the coast, luckily with less rocks than day 1. To spare my knee a bit, I use the packraft and tackle the first kilometers on the water. Then we go landinwards to and start climbing to collect the final samples from this area. On the peak, we search for cracks or a flat surface where a lot of sediment could accumulate. The chosen spot is photographed and then we scoop all the loose sand in bags to take with us and process in the lab. After a long descent along the boulders and a quick photoshoot of Will on an iceberg, we reach the camp. In the evening, a family of polar foxes passes by to say hi. We clean up camp, ready for the boat transfer to our next location: Disko Island.
+
+{{< carousel items="1" height="500" unit="px" duration="7000" data="qeqertaq-carousel" >}}
+
+There we follow the same rythm. Set up camp, a walk to fill the day and preparing for the next two peaks. Our tolerance for the mosquitos is also a lot lower already. The terrain on Disko is mainly made up of basalt and sedimentary rock, which is much more pleasant to hike (read: very little boulders), and we make quick progress. There is a lot of sea fog, but soon we climb above the clouds and we can see the peak made up of beautiful basalt pilars. We collect again multiple kilograns of loose sediment to search for micrometeorites and descend to our foggy camp to make a camp fire. Way to soon, it is the final day. It is again a long hike, but we are rewarded with a view of the impressive mudderbuchten (or mud bay) and many more samples to take home. After this last day, we say goodbye to Disko and Ivik picks us up with the boat to go back to Ilulissat. 
+
+{{< carousel items="1" height="500" unit="px" duration="7000" data="disko-carousel" >}}
