@@ -42,6 +42,6 @@ date_format = "02.01.2006" # Date format https://gohugo.io/functions/dateformat/
   location = "Gent, België"
   date_start = "2013-09-22"
   date_end = "2016-07-30"
-  description = "Bachelor project: Reconstructie van de laat Holoceen aardbeving actibiteit in West Nepal op basis van meer sedimenten"
+  description = "Bachelor project: Reconstructie van de laat Holoceen aardbeving activiteit in West Nepal op basis van meer sedimenten"
   
 +++
