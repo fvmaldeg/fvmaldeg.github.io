@@ -4,7 +4,7 @@ subtitle = "Fieldwork in Greenland"
 tags = ['fieldwork', 'Greenland']
 date = 2023-09-29
 description = "The one with the mosquitos"
-banner = 'img/icefjord3.jpg'
+banner = 'img/disko1.jpg'
 +++
 
 Luckily, we've anticipated. On Friday, we contacted Ivik, someone Willem knows and works with for boat transfers. We agree with Ivik that he drops us at two different locations along the coast, where we can search for micrometeorites. On Friday, we also identified two potential locations for the micrometeorite search. Conditions for a good location: hard bed rock, and high peaks that weren't continuously covered during the glaciations in order to catch as much material as possible from the sky. Our first stop is a beach in a bay north of the village Qeqertaq. This turns out to be the favourite spot of a couple humpback whales. Every day, they greet us with splashes and the wave of a fin. Our camp is surrounded by granitic mountains 700 to 800 m high. The three peaks in walking distance are the target for the next three days. Following the dropoff, we set up camp on the beach close to a river. Happy to finally start our fieldwork, we aren't even that bothered by the mosquitos (yet).
