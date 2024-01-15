@@ -9,13 +9,14 @@ title = "Outreach"
 * Valère Billiet award: annual award for best geology student
 
 ## Workshops
+* Dag van de wetenschap 2023
 * [Nerdland Festival](https://www.nerdlandfestival.be/nl/) 2022
 * [Tajo vzw](https://tajo.be) 2022 
 * [VUB Kinderuniversiteit](https://vubkinderuniversiteit.be/ku21-workshop-micrometeorieten-kleine-boodschappers-uit-de-ruimte/)
  2019 - 2021 
 
 ## Lectures
-* Dag van de wetenschap 2022
+* Dag van de wetenschap 2022 - 2023
 * Theater aan zee 2021
 
 ## Articles
