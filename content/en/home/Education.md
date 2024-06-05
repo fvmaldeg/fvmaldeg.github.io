@@ -6,18 +6,26 @@ weight = 20  # Order that this section will appear.
 # hidden = true
 
 # Widget title
-title = "Education"
+title = "Education and Experience"
 # Widget subtitle
-#subtitle = "What lead me to acquire experience."
+# subtitle = "What lead me to acquire experience."
 
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
+
+[[period]]
+  title = "Postdoctoral Researcher"
+  subtitle = "University of Copenhagen"
+  location = "Copenhagen, Denmark"
+  date_start = "2024-06-01"
+  date_end = ""
+  description = "Project: Fossil micrometeorite contribution to Hadean Earth"
 
 [[period]]
   title = "PhD Geochemistry"
   subtitle = "Vrije Universiteit Brussel"
   location = "Brussels, Belgium"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2024-02-26"
   description = "Project: Spinels to characterize Solar System source regions and constrain variations in the flux of extraterrestrial materials delivered to Earth"
 
   [[period]]
