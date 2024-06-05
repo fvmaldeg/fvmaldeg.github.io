@@ -26,7 +26,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Brussels, Belgium"
   date_start = "2018-10-01"
   date_end = "2024-02-26"
-  description = "Project: Spinels to characterize Solar System source regions and constrain variations in the flux of extraterrestrial materials delivered to Earth"
+  description = "Project: Unraveling the Solar System: Tracing the cosmic dust flux to Earth using polar sediments"
 
   [[period]]
   title = "MSc of Geology"
