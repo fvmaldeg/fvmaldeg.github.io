@@ -4,11 +4,11 @@ title = "Publicaties"
 
 ## Peer-reviewed
 ### 2024
-* _Oxygen isotopic compositions of fresh rooftop micrometeorites from the Budel collection—Insights into the contemporary cosmic dust flux_, Jonker G., Van Maldeghem F., van Ginneken M., Krämer Ruggiu L., Goderis S., 06 February 2024, In: Meteoritics & Planetary Science 1 - 22 [doi]( https://doi.org/10.1111/maps.14145)
+* _Oxygen isotopic compositions of fresh rooftop micrometeorites from the Budel collection—Insights into the contemporary cosmic dust flux_, Jonker G., **Van Maldeghem F.**, van Ginneken M., Krämer Ruggiu L., Goderis S., 06 February 2024, In: Meteoritics & Planetary Science 1 - 22 [doi]( https://doi.org/10.1111/maps.14145)
 
 * _Micrometeorite collections: a review and their current status_, van Ginneken M., Wozniakiewicz P. J., Brownlee D. E., Debaille V., Della Corte V., Delauche L., Duprat J., Engrand C., Folco L., Fries M., Gattacceca J., Genge M. J., Goderis S., Gounelle M., Harvey R. P., Jonker G., Krämer Ruggiu L., Larsen J., Lever J. H., Noguchi T., Peterson S., Rochette P., Rojas J., Rotundi A., Rudraswami N. G., Suttle M. D., Taylor S., **Van Maldeghem F.**, Zolensky M., 12 May 2024, In: Philosophical Transactions of the Royal Society A. 382: 20230195 [doi](https://doi.org/10.1098/rsta.2023.0195)
 
-* _Elemental and oxygen isotopic fractionation recorded in highly vaporized cosmic spherules from Widerøefjellet, Sør Rondane Mountains (East Antarctica)_, Boonants T., Goderis S., Soens B., **Van Maldeghem F.**, Chernonozhkin S. M., Vanhaecke F., Snoeck C., Claeys Ph., 13 May 2024, In: Meteoritics & Planetary Science 1 - 21 [doi] (https://doi.org/10.1111/maps.14188)
+* _Elemental and oxygen isotopic fractionation recorded in highly vaporized cosmic spherules from Widerøefjellet, Sør Rondane Mountains (East Antarctica)_, Boonants T., Goderis S., Soens B., **Van Maldeghem F.**, Chernonozhkin S. M., Vanhaecke F., Snoeck C., Claeys Ph., 13 May 2024, In: Meteoritics & Planetary Science 1 - 21 [doi](https://doi.org/10.1111/maps.14188)
 
 ### 2023
 * _Geochemical characterization of scoriaceous and unmelted micrometeorites from the Sør Rondane Mountains, East Antarctica: Links to chondritic parent bodies and the effects of alteration_, **Van Maldeghem F.**, van Ginneken M., Soens B., Kaufmann F., Lampe S., Krämer Ruggiu L., Hecht L., Claeys Ph., Goderis S., 10 June 2023, In: Geochimica et Cosmochimica Acta. 354, p. 88-108 [doi](https://doi.org/10.1016/j.gca.2023.06.002)
