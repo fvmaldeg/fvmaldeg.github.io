@@ -4,6 +4,9 @@ title = "Publications"
 
 ## Peer-reviewed
 ### 2024
+
+* _Chrome-rich spinels in micrometeorites from modern Antarctic sedimentary deposits_, **Van Maldeghem F.**, Maeda R., Soens B., Suttle M. D., Krämer Ruggiu L., Cordier C., Yamaguchi A., Schmitz B., Claeys Ph., Goderis S. 5 June 2024, In: Earth and Planetary Science Letters 641, 118837 [doi](https://doi.org/10.1016/j.epsl.2024.118837)
+
 * _Oxygen isotopic compositions of fresh rooftop micrometeorites from the Budel collection—Insights into the contemporary cosmic dust flux_, Jonker G., **Van Maldeghem F.**, van Ginneken M., Krämer Ruggiu L., Goderis S., 06 February 2024, In: Meteoritics & Planetary Science 1 - 22 [doi](https://doi.org/10.1111/maps.14145)
 
 * _Micrometeorite collections: a review and their current status_, van Ginneken M., Wozniakiewicz P. J., Brownlee D. E., Debaille V., Della Corte V., Delauche L., Duprat J., Engrand C., Folco L., Fries M., Gattacceca J., Genge M. J., Goderis S., Gounelle M., Harvey R. P., Jonker G., Krämer Ruggiu L., Larsen J., Lever J. H., Noguchi T., Peterson S., Rochette P., Rojas J., Rotundi A., Rudraswami N. G., Suttle M. D., Taylor S., **Van Maldeghem F.**, Zolensky M., 12 May 2024, In: Philosophical Transactions of the Royal Society A. 382: 20230195 [doi](https://doi.org/10.1098/rsta.2023.0195)
