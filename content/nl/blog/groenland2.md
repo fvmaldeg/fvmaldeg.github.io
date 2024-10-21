@@ -1,7 +1,7 @@
 +++
 title = "Op het veld"
 subtitle = "Veldwerk in Groenland"
-tags = ['veldwerk', 'Groenland']
+tags = ['Groenland']
 date = 2023-09-29
 description = "Op het veld"
 banner = 'img/disko1.jpg'

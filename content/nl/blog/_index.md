@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "Veldwerk"
 # Default banner
 [cascade]
   banner = "img/icefiord2.jpg"

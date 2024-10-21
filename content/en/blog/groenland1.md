@@ -1,7 +1,7 @@
 +++
 title = "The one with the helicopter"
 subtitle = "Fieldwork in Greenland"
-tags = ['fieldwork', 'Greenland']
+tags = ['Greenland']
 date = 2023-08-29
 description = "The one with the helicopter"
 banner = 'img/icefjord3.jpg'

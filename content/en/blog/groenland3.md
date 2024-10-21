@@ -1,7 +1,7 @@
 +++
 title = "The one with the sea fog"
 subtitle = "Fieldwork in Greenland"
-tags = ['fieldwork', 'Greenland']
+tags = ['Greenland']
 date = 2024-01-15
 description = "The one with the sea fog"
 banner = 'img/icefjord2.jpg'

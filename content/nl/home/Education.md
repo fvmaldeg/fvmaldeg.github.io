@@ -10,14 +10,14 @@ title = "Opleiding en ervaring"
 # Widget subtitle
 # subtitle = "Mijn ervaring"
 
-date_format = "02.01.2006" # Date format https://gohugo.io/functions/dateformat/#readout
+date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
   title = "Postdoctoraal onderzoeker"
   subtitle = "Universiteit van Kopenhagen"
   location = "Kopenhagen, Denemarken"
   date_start = "2024-06-01"
-  date_end = ""
+  date_end = "2024-08-31"
   description = "Project: De contributie van micrometeorieten op de aarde tijdens het Hadeaan"
 
 [[period]]

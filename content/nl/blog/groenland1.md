@@ -1,7 +1,7 @@
 +++
 title = "Helikopteren"
 subtitle = "Veldwerk in Groenland"
-tags = ['veldwerk', 'Groenland']
+tags = ['Groenland']
 date = 2023-08-29
 description = "Die met de helikopter"
 banner = 'img/icefjord3.jpg'

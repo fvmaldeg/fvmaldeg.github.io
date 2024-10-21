@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "Fieldwork"
 # Default banner
 [cascade]
 banner = "img/icefiord2.jpg"

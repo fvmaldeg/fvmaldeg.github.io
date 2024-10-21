@@ -3,13 +3,13 @@
 # This section displays recent blog posts from `content/post/`.
 
 # Uncomment the following line and widget will NOT be displayed
-hidden = true
+# hidden = true
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = "Here you will find some of my adventures as a PhD student, ranging from field work to conferences to daily lab work and writing."
+subtitle = "Here you will find some of my field work adventures."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

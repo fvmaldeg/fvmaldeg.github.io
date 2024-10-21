@@ -1,7 +1,7 @@
 +++
 title = "The one with the mosquitos"
 subtitle = "Fieldwork in Greenland"
-tags = ['fieldwork', 'Greenland']
+tags = ['Greenland']
 date = 2023-09-29
 description = "The one with the mosquitos"
 banner = 'img/disko1.jpg'

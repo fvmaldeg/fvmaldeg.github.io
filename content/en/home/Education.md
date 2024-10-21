@@ -17,7 +17,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   subtitle = "University of Copenhagen"
   location = "Copenhagen, Denmark"
   date_start = "2024-06-01"
-  date_end = ""
+  date_end = "2024-08-31"
   description = "Project: Fossil micrometeorite contribution to Hadean Earth"
 
 [[period]]

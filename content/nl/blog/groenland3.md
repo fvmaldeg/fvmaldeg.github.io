@@ -1,7 +1,7 @@
 +++
 title = "Mistig"
 subtitle = "Veldwerk in Groenland"
-tags = ['veldwerk', 'Groenland']
+tags = ['Groenland']
 date = 2024-01-15
 description = "Die met de zeemist"
 banner = 'img/icefjord2.jpg'
