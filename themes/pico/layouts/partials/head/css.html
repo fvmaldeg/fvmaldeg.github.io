@@ -26,7 +26,7 @@
 
 {{ if or (strings.HasSuffix $style.Name "sass") (strings.HasSuffix $style.Name "scss")}}
 {{ $customCSSopt := (dict "targetPath" "css/main.css" "outputStyle" "compressed" "enableSourceMap" false) }}
-{{ if site.IsServer }}
+{{ if hugo.IsServer }}
 {{ $customCSSopt = (dict "targetPath" "css/main.css" "outputStyle" "expanded" "enableSourceMap" true) }}
 {{ end }}
 {{ $css = $css | toCSS $customCSSopt }}
