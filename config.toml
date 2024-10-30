@@ -36,7 +36,7 @@ favicon = '/favicon.ico'
 alt = "email icon"
 icon = "/icons/email.svg"
 name = "email"
-url = "mailto:flore.van.maldeghem@vub.be"
+url = "mailto:florevanmaldeghem@hotmail.com"
 
 [[params.social]]
 alt = "linkedin icon"
