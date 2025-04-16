@@ -17,6 +17,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   subtitle = "Royal Observatory of Belgium"
   location = "Brussels, Belgium"
   date_start = "2025-02-01"
+  date_end = "now"
   
   [[period]]
   title = "Postdoctoral Researcher"

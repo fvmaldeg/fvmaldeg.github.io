@@ -13,6 +13,13 @@ title = "Opleiding en ervaring"
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
+  title = "Wetenschappelijk communicatiemedewerker"
+  subtitle = "Koninklijke Sterrenwacht van België"
+  location = "Brussel, België"
+  date_start = "2025-02-01"
+  date_end = "nu"
+
+[[period]]
   title = "Postdoctoraal onderzoeker"
   subtitle = "Universiteit van Kopenhagen"
   location = "Kopenhagen, Denemarken"
