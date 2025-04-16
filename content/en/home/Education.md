@@ -13,6 +13,12 @@ title = "Education and Experience"
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
+  title = "Science communicator"
+  subtitle = "Royal Observatory of Belgium"
+  location = "Brussels, Belgium"
+  date_start = "2025-02-01"
+  
+  [[period]]
   title = "Postdoctoral Researcher"
   subtitle = "University of Copenhagen"
   location = "Copenhagen, Denmark"
