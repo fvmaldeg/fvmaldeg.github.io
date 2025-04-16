@@ -6,7 +6,7 @@ defaultContentLanguage = 'en'
 enableEmoji = true
 languageCode = 'en-us'
 # Number of blog post per page
-paginate = 10
+pagination.pagerSize = 10
 theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
