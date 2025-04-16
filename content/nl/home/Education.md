@@ -17,7 +17,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   subtitle = "Koninklijke Sterrenwacht van België"
   location = "Brussel, België"
   date_start = "2025-02-01"
-  # date_end = "nu"
+  date_end = ""
 
 [[period]]
   title = "Postdoctoraal onderzoeker"
